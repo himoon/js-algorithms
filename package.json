@@ -1,0 +1,15 @@
+{
+  "name": "js-algorithms",
+  "version": "1.0.0",
+  "description": "js-algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "HYUNIL MOON",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
